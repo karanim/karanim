@@ -67,17 +67,23 @@ Quotes/Mantras: Add a favorite quote or mantra.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-  Need to turn your Data data into an asset for smarter decisions and fostering sustainable growth?
-  I will apply advanced analytics, machine learning skills, and data-driven strategies to uncover hidden opportunities and deliver exceptional business outcomes.
-      (i) Crafting a data-driven strategy to unlock new business opportunities.
-      (ii) Deploy predictive models to forecast trends and inform decisions
-      (iii) Extract deep insights from your data with advanced analytical techniques.
-      (iv) Build robust data pipelines and architectures for efficient analysis.
-      (v) Develop bespoke data models tailored to your specific business needs.
-      (vi) Integrate AI and machine learning to revolutionize your data analysis.
-      (vii) Create compelling visualizations and reports for stakeholder communication.
-      (viii) mplement real-time analytics for instant decision-making and insights.
+##Need to turn your Data data into an asset for smarter decisions and fostering sustainable growth?
+  ##I will apply advanced analytics, machine learning skills, and data-driven strategies to uncover hidden opportunities and deliver exceptional business outcomes.
+      - Crafting a data-driven strategy to unlock new business opportunities.
+  
+      - Deploy predictive models to forecast trends and inform decisions
+  
+      - Extract deep insights from your data with advanced analytical techniques.
+  
+      - Build robust data pipelines and architectures for efficient analysis.
+  
+      - Develop bespoke data models tailored to your specific business needs.
+  
+      - Integrate AI and machine learning to revolutionize your data analysis.
+  
+      - Create compelling visualizations and reports for stakeholder communication.
+  
+      - mplement real-time analytics for instant decision-making and insights.
 
 <!--
 **karanim/karanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
