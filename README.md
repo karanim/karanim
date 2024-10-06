@@ -67,8 +67,9 @@ Quotes/Mantras: Add a favorite quote or mantra.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-##Need to turn your Data data into an asset for smarter decisions and fostering sustainable growth?
-  ##I will apply advanced analytics, machine learning skills, and data-driven strategies to uncover hidden opportunities and deliver exceptional business outcomes.
+  
+## Need to turn your Data data into an asset for smarter decisions and fostering sustainable growth?
+  ## I will apply advanced analytics, machine learning skills, and data-driven strategies to uncover hidden opportunities and deliver exceptional business outcomes.
       - Crafting a data-driven strategy to unlock new business opportunities.
   
       - Deploy predictive models to forecast trends and inform decisions
