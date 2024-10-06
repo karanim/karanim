@@ -1,8 +1,5 @@
 ## Hello World 👋
 Need to turn your Data data into an asset for smarter decisions and fostering sustainable growth?
-
-<!--
-**karanim/karanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋 Hi there, I'm Laban Mathai!
 Welcome to my GitHub profile! I’m a Data Analyst with a strong passion for data-driven storytelling and analytical problem-solving. I enjoy turning complex data into actionable insights and visualizations that drive business decisions.
 
@@ -56,3 +53,6 @@ I will apply advanced analytics, machine learning skills, and data-driven strate
       (vi) Integrate AI and machine learning to revolutionize your data analysis.
       (vii) Create compelling visualizations and reports for stakeholder communication.
       (viii) mplement real-time analytics for instant decision-making and insights.
+
+<!--
+**karanim/karanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
