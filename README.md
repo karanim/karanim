@@ -1,6 +1,7 @@
 ## Hello World 👋
 
-👋 Hi there, I'm Laban Mathai!
+Hi there 👋 , I'm Laban Mathai!
+
 Welcome to my GitHub profile! I’m a Data Scientist with a strong passion for data-driven storytelling and analytical problem-solving. I enjoy turning complex data into actionable insights and visualizations that drive business decisions.
 
 ## 🚀 About Me
