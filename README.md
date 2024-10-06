@@ -1,5 +1,5 @@
 ## Hello World 👋
-Need to turn your Data data into an asset for smarter decisions and fostering sustainable growth?
+
 👋 Hi there, I'm Laban Mathai!
 Welcome to my GitHub profile! I’m a Data Analyst with a strong passion for data-driven storytelling and analytical problem-solving. I enjoy turning complex data into actionable insights and visualizations that drive business decisions.
 
@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I will apply advanced analytics, machine learning skills, and data-driven strategies to uncover hidden opportunities and deliver exceptional business outcomes.
+  Need to turn your Data data into an asset for smarter decisions and fostering sustainable growth?
+  I will apply advanced analytics, machine learning skills, and data-driven strategies to uncover hidden opportunities and deliver exceptional business outcomes.
       (i) Crafting a data-driven strategy to unlock new business opportunities.
       (ii) Deploy predictive models to forecast trends and inform decisions
       (iii) Extract deep insights from your data with advanced analytical techniques.
