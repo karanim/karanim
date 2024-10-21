@@ -54,22 +54,23 @@ I’m always excited to connect with other professionals and collaborate on inte
 Feel free to customize this template further! You can add more sections, like:
 
 ## Certifications: 
-
+Certificate in Data Science 
+Applied Data Science Lab
+IBM Data science Certificate
+Foundation Data Science 
+Econometrics Principles 
+and more 
 
 ## Blog Posts: 
 
 ## Quotes/Mantras: 
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Data Science & Data Analytics Consulting to clients around the World 
   
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Data Engineering , Cloud Computing & Artificial Intelligence
+- 👯 I’m looking to collaborate on different segments in data science & machine learning , from healthcare, startUps , research and business 
+  
   
 ## Need to turn your Data data into an asset for smarter decisions and fostering sustainable growth?
   ## I will apply advanced analytics, machine learning skills, and data-driven strategies to uncover hidden opportunities and deliver exceptional business outcomes by.
