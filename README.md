@@ -2,29 +2,29 @@
 
 Hi there 👋 , I'm Laban Mathai!
 
-Welcome to my GitHub profile! I’m a Data Scientist with a strong passion for data-driven storytelling and analytical problem-solving. I enjoy turning complex data into actionable insights and visualizations that drive business decisions.
+I’m a Data Analyst , Statistician: I help organizations using Data to develop solution that drive business decisions.
 
 ## 🚀 About Me
 
-🔭 Currently working on improving my skills in data visualization and machine learning.
+🔭 Currently working as Lead Data Analyst in Kenya. I also consult and train professionals usage of couple of data analytics tools. 
 
-🌱 Continuously learning about data engineering and cloud computing.
+🌱 I'm Continuously learning best practices and advancing into data engineering and cloud computing.
 
-💼 With over six years of experience in research and analytics, I’ve contributed to various projects in StartUps, Research Organizations, Medical and health, and businesses.
+💼 With over seven years of experience in research and analytics, I’ve contributed to various projects in Research Organizations, Medical and health, and businesses.
 
-📊 Skilled in tools like Python, Pandas, Matplotlib, Power BI, and SQL.
+📊 Skilled in tools Advanced Excel, Power BI, and SQL and programming in R & Python.
 
 🌍 Based in Nairobi, Kenya.
 
 ## 📈 My Skill Set
 
-Programming & Tools ( Python, R, MATLAB, Javascript , C# and C++
+Programming & Tools ( Python, R, MATLAB)
 
-Data Analysis & Visualization (Tableau, MS POWER BI, 
+Data Analysis & Visualization (Excel Data dashboards , Power Query , Power Pivot & DAX , Tableau, MS POWER BI) 
 
 Exploratory Data Analysis (EDA)
 
-Data Cleaning & Wrangling
+Statistical Analysis, Machine Learning & Modelling
 
 Descriptive & Inferential Statistics
 
@@ -48,47 +48,5 @@ Data Storytelling & Dashboards
 
 I’m always excited to connect with other professionals and collaborate on interesting projects. Feel free to reach out!
 
-## ⭐ GitHub Stats
 
-
-Feel free to customize this template further! You can add more sections, like:
-
-## Certifications: 
-Certificate in Data Science 
-Applied Data Science Lab
-IBM Data science Certificate
-Foundation Data Science 
-Econometrics Principles 
-and more 
-
-## Blog Posts: 
-
-## Quotes/Mantras: 
-
-
-- 🔭 I’m currently working on Data Science & Data Analytics Consulting to clients around the World 
-  
-- 🌱 I’m currently learning Data Engineering , Cloud Computing & Artificial Intelligence
-- 👯 I’m looking to collaborate on different segments in data science & machine learning , from healthcare, startUps , research and business 
-  
-  
-## Need to turn your Data data into an asset for smarter decisions and fostering sustainable growth?
-  ## I will apply advanced analytics, machine learning skills, and data-driven strategies to uncover hidden opportunities and deliver exceptional business outcomes by.
-      - Crafting a data-driven strategy to unlock new business opportunities.
-  
-      - Deploying predictive models to forecast trends and inform decisions
-  
-      - Extracting deep insights from your data with advanced analytical techniques.
-  
-      - Building robust data pipelines and architectures for efficient analysis.
-  
-      - Developing bespoke data models tailored to your specific business needs.
-  
-      - Integrating AI and machine learning to revolutionize your data analysis.
-  
-      - Creating compelling visualizations and reports for stakeholder communication.
-  
-      - Implementing real-time analytics for instant decision-making and insights.
-
-<!--
 **karanim/karanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
