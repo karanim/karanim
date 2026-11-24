@@ -38,40 +38,33 @@ Compares naive, GARCH, Random Forest and XGBoost forecasts of S&P 500 volatility
 **Applied research · East Africa (Kenya, Uganda, Tanzania)**
 Designed the sample structure, allocation and methodology for a multi-country business-to-business market study, balancing precision, cost and coverage across countries.
 - **Methods:** stratified and multi-stage design, allocation across strata, margin-of-error planning
-- 🔗 [Write-up](#) *(add a short methods note, with client details removed)*
+
 
 ### 3. Needs assessment methodology for a humanitarian programme
 **Applied research · North-east Nigeria**
 Built the sampling frame and sample for a multi-sectoral needs assessment across several local government areas, including disability-focused components.
 - **Methods:** frame construction, cluster sampling, sample size by area, design effects
-- 🔗 [Write-up](#) *(add link)*
+
 
 ### 4. Brand perception and perceptual mapping
 **Survey analytics · SPSS / R**
 Analysed a 22-statement yes/no brand perception survey and turned binary responses into a perceptual map that shows how competing brands are positioned.
 - **Methods:** binary data analysis, correspondence analysis, clear presentation of yes/no results for non-technical audiences
-- 🔗 [Notebook](#) *(add link)*
+
 
 ### 5. Survey analysis toolkit: concept testing, PCA and reporting
 **Survey analytics · SPSS / R / Python**
 Reusable analysis workflows: inferential tests across respondent groups, before/after concept likelihood, PCA on multi-response questions, and rebuilding recurring reports from syntax.
 - **Methods:** chi-square and t-tests, paired comparisons, PCA, automated report tables
-- 🔗 [Code](#) *(add link)*
+
 
 ### 6. ML Fundamentals: teaching notebooks
 **Education · Python**
 Step-by-step notebooks on regression and classification, with diagnostics, validation and interpretation.
-- **Start here:** [Module 2: Linear Regression](#) *(add link)*
+
 
 > Client data is never published. Where a project draws on client work, it is described at the methods level or reproduced with simulated or public data.
 
-<details>
-<summary><b>Earlier portfolio projects</b></summary>
-
-- 📊 **Global COVID-19 trends:** analysis and visualization of global trends and hotspots in Python.
-- 📈 **Retail sales forecasting:** time series model in R to predict monthly sales for a retail chain.
-- 🌾 **Agricultural productivity in Kenya:** analysis of public data on crop yields.
-</details>
 
 ---
 
@@ -91,4 +84,4 @@ I'm open to consulting on research design, analysis and dashboards, and to runni
 
 - 📧 labanmathai@gmail.com
 - 💼 [LinkedIn: Laban Mathai](https://www.linkedin.com/in/laban-mathai-89a6948a/)
-- 🌐 Portfolio: _[add link]_
+- 🌐 Portfolio: Available on request
